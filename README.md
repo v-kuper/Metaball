@@ -61,8 +61,5 @@ You can tweak the physics, color effects, and responsiveness:
 ## 📝 License
 This project is licensed under the **MIT License**.
 
-## 📬 Contact
-For any questions or feedback, reach out to **[Your Name]** via **[your email]** or open an issue on GitHub!
-
 Happy coding! 🚀
 
