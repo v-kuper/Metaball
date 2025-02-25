@@ -271,7 +271,7 @@ const styles = StyleSheet.create({
     justifyContent: 'space-around',
     padding: 10,
     position: 'absolute',
-    bottom: 0,
+    bottom: 40,
     left: 0,
     right: 0,
   },
