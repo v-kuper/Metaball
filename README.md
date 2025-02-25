@@ -19,7 +19,7 @@ This project demonstrates an interactive **MetaBall animation** using **React Na
 ## 📦 Installation
 ```sh
 # Clone the repository
-git clone https://github.com/your-username/metaball-animation.git
+git clone https://github.com/v-kuper/Metaball.git
 cd metaball-animation
 
 # Install dependencies
@@ -30,7 +30,7 @@ yarn start  # or npm start
 ```
 
 ## 📸 Preview
-🚀 Check out the animation in action! 🎥 [Link to demo video]
+🚀 Check out the animation in action! 🎥 ![Demo Animation](./assets/demo.gif)
 
 ## 🏗️ Usage
 Simply import the `Metaball` component into your React Native project:
