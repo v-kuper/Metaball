@@ -15,7 +15,7 @@
     "react-native": "0.76.0",
     "react-native-gesture-handler": "^2.24.0",
     "react-native-reanimated": "^3.16.7",
-    "react-native-skia-gesture": "^0.3.6"
+    "react-native-skia-gesture": "https://github.com/v-kuper/react-native-skia-gesture"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
