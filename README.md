@@ -20,7 +20,7 @@ This project demonstrates an interactive **MetaBall animation** using **React Na
 ```sh
 # Clone the repository
 git clone https://github.com/v-kuper/Metaball.git
-cd metaball-animation
+cd Metaball
 
 # Install dependencies
 yarn install  # or npm install
